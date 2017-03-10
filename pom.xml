@@ -5,7 +5,7 @@
 
   <groupId>com.brightspot</groupId>
   <artifactId>elasticsearch</artifactId>
-  <version>5.2.0</version>
+  <version>5.2.2</version>
   <packaging>pom</packaging>
 
   <name>Elasticsearch POM</name>
@@ -154,7 +154,7 @@
 
   <properties>
     <!-- Versions -->
-    <elasticsearch.version>5.2.0</elasticsearch.version>
+    <elasticsearch.version>5.2.2</elasticsearch.version>
     <shade-plugin.version>2.4.3</shade-plugin.version>
 
     <!-- Configuration -->
